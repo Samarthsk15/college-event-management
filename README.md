@@ -1,5 +1,3 @@
-# college-event-management
-
 
 # Event Registration System
 
